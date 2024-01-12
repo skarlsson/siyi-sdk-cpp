@@ -1,0 +1,8 @@
+In FPV mode (which should have been called 'Unlocked' mode), the phone will follow the direction of the camera handle without restriction - though the movement will be smoothed.  It means that the phone will behave like any other camera, apart from the smoothed movement.
+
+In Follow mode - which should have been called 'Horizon Lock' mode - the phone will always stay horizontal.  This means that you don't have to worry about keeping the horizon straight.   Note that "Follow Mode" has nothing at all to do with tracking a face or other subject.  
+
+In Tilt Lock mode, which should have been called 'Tilt and Horizon Lock' mode (except that's too long) the phone behaves the same as in Follow mode (horizon always straight) but in addition, the phone will point ahead in one direction.  If you move the handle, you won't be able to point the phone up to the sky or down to your feet.  You can set it to straight ahead using the 'recenter' option, and you can adjust it down to your feet or up to the sky using thejoystick .  It will then stay pointing at the sky or your feet (or anywhere between) regardless of handle movement.  (But note that you're restricted to 45 degrees up and down).
+
+In all these modes, it's always possible to pan the camera from side to side.  If you want to lock that axis as well as the axes locked by Tilt Lock,  hold down the trigger.  That makes the camera point in a constant direction, regardless of how you move the handle, thus preventing panning.
+
